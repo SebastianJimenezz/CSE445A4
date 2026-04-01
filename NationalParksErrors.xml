@@ -35,7 +35,7 @@
 	
 	<!-- Error no phone number is here -->
 	<!--Park 3 -->
-	<NationalPark>
+	<NationalPark Rating="4.8">
 		<Name>Shenandoah National Park</Name>
 		<Address NearestAirport="Washington Dulles">
 			<Number>3655</Number>
@@ -74,7 +74,7 @@
 	</NationalPark>
 	
 	<!--Park 6 -->
-	<NationalPark>
+	<NationalPark Rating="4.8">
 		<Name>Yellowstone National Park</Name>
 		<Phone>307-344-7381</Phone>
 		<Address NearestAirport="Bozeman Yellowstone International">
@@ -100,7 +100,7 @@
 		</NationalPark>
 	
 	<!--Park 8 -->
-	<NationalPark>
+	<<NationalPark Rating="4.9">
 		<Name>Acadia National Park</Name>
 		<Phone>207-288-3338</Phone>
 		<Phone>207-288-4444</Phone>
@@ -127,7 +127,7 @@
 	</NationalPark>
 	
 	<!--Park 10 -->
-	<NationalPark>
+	<NationalPark Rating="4.9">
 		<Name>Grand Teton National Park</Name>
 		<Phone>307-739-3300</Phone>
 		<Address NearestAirport="Jackson Hole">
